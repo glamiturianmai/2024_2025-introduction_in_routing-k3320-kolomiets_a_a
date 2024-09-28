@@ -31,7 +31,6 @@ Date of finished: 28.09.2024
 <img src="./igs/1.jpg" style="width:500px; height: auto; background: white">
 
 ## Конфигурация
-<img src="./igs/RO1-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 <img src="./igs/SWO1.01-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 <img src="./igs/SWO2.01-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 <img src="./igs/SWO2.02-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
