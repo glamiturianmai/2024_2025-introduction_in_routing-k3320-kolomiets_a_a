@@ -28,15 +28,15 @@ Date of finished: 28.09.2024
 
 В yaml-файле была задана топология сети, указанная на схеме
 
-<img src="./imgs/1.png" style="width:500px; height: auto; background: white">
+<img src="./igs/1.jpg" style="width:500px; height: auto; background: white">
 
 ## Конфигурация
-<img src="./imgs/RO1-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./imgs/SWO1-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./imgs/SWO2.01-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./imgs/SWO2.02-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./igs/RO1-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./igs/SWO1-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./igs/SWO2.01-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./igs/SWO2.02-config.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 ### После задания конфигураций нод, проверим работоспособность:
 
-<img src="./imgs/SWO1.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./imgs/SWO2.01.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./imgs/SWO2.02.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./igs/SWO1.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./igs/SWO2.01.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./igs/SWO2.02.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
