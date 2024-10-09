@@ -23,7 +23,8 @@ Date of finished: 09.10.2024
 
 ## Ход работы
 
-Схема работы: 
+### Схема работы: 
+
 <img src="./imgs/schema.png" style="width:500px; height: auto; background: white">
 
 ## Таблицы маршрутизации:
