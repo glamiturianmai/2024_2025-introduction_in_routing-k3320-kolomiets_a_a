@@ -29,8 +29,10 @@ Date of finished: 09.10.2024
 ## Таблицы маршрутизации:
 #### R01.MSK
 <img src="./imgs/m1.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+
 #### R02.BRL
 <img src="./imgs/m2.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+
 #### R03.FRT
 <img src="./imgs/m3.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 
