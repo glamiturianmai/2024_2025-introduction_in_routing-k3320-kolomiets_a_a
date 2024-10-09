@@ -24,17 +24,17 @@ Date of finished: 09.10.2024
 ## Ход работы
 
 Схема работы: 
-<img src="./imgs/schema.drawio.png" style="width:500px; height: auto; background: white">
+<img src="./imgs/schema.png" style="width:500px; height: auto; background: white">
 
 ## Таблицы маршрутизации:
 #### R01.MSK
-<img src="./imgs/m1.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/m1.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 #### R02.BRL
-<img src="./imgs/m2.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/m2.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 #### R03.FRT
-<img src="./imgs/m3.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/m3.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 
 ## Результаты пингов 
-<img src="./imgs/ping1.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./imgs/ping2.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./imgs/ping3.jpg" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/ping1.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/ping2.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/ping3.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
