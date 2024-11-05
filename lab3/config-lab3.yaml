@@ -1,0 +1,45 @@
+name: lab3-alice
+mgmt:
+  network: mgmt-net
+  ipv4-subnet: 100.200.20.0/24
+topology:
+  kinds:
+    vr-ros:
+        image: docker.io/vrnetlab/vr-routeros:6.47.9
+    linux:
+        image: ghcr.io/hellt/network-multitool
+  nodes:
+    R01.NY:
+      kind: vr-ros
+      mgmt-ipv4: 100.200.20.12
+    R01.LND:
+      kind: vr-ros
+      mgmt-ipv4: 100.200.20.13
+    R01.HKI:
+      kind: vr-ros
+      mgmt-ipv4: 100.200.20.14
+    R01.SPB:
+      kind: vr-ros
+      mgmt-ipv4: 100.200.20.15
+    R01.MSC:
+      kind: vr-ros
+      mgmt-ipv4: 100.200.20.16
+    R01.LBN:
+      kind: vr-ros
+      mgmt-ipv4: 100.200.20.17
+    PC1:
+      kind: linux
+      mgmt-ipv4: 100.200.20.18
+    SGI-PRISM:
+      kind: linux 
+      mgmt-ipv4: 100.200.20.19
+  links:
+    - endpoints: ["R01.NY:eth3", "R01.LND:eth2"]
+    - endpoints: ["R01.NY:eth2", "R01.LBN:eth2"]
+    - endpoints: ["R01.NY:eth4", "SGI-PRISM:eth"]
+    - endpoints: ["R01.LND:eth3", "R01.HKI:eth2"]
+    - endpoints: ["R01.HKI:eth3", "R01.LBN:eth3"]
+    - endpoints: ["R01.HKI:eth4", "R01.SPB:eth2"]
+    - endpoints: ["R01.SPB:eth3", "R01.MSC:eth3"]
+    - endpoints: ["R01.MSC:eth2", "R01.LBN:eth4"]
+    - endpoints: ["R01.SPB:eth4", "PC1:eth"]
