@@ -31,7 +31,7 @@ Date of finished: 05.11.2024
 <img src="./images/NY.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 
 ### RO1.LND:
-<img src="./images/LND.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/LDN.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 
 ### RO1.HKI:
 <img src="./images/HKI.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
