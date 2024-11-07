@@ -25,29 +25,29 @@ Date of finished: 05.11.2024
 
 ### Схема работы: 
 
-<img src="./images/schema.png" style="width:500px; height: auto; background: white">
+<img src="./images/schema.png" style="width:auto; height: auto; background: white">
 
 ### RO1.NY:
-<img src="./images/NY.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/NY.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ### RO1.LND:
-<img src="./images/LDN.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/LDN.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ### RO1.HKI:
-<img src="./images/HKI.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/HKI.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ### RO1.SPB:
-<img src="./images/SPB.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/SPB.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ### RO1.MSC:
-<img src="./images/MSK.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/MSK.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ### RO1.LBN:
-<img src="./images/LBN.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/LBN.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ## Результаты пингов (PC1 -> SGI_PRISM, SGI_PRISM -> PC1)
-<img src="./images/ping1.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
-<img src="./images/ping2.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/ping1.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/ping2.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ##  Трассировка между роутерами (SPB и NY) - можно увидеть что используются разные маршруты 
-<img src="./images/traceroute.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+<img src="./images/traceroute.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
