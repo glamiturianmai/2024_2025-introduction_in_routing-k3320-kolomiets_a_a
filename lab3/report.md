@@ -48,3 +48,6 @@ Date of finished: 05.11.2024
 ## Результаты пингов (PC1 -> SGI_PRISM, SGI_PRISM -> PC1)
 <img src="./images/ping1.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
 <img src="./images/ping2.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
+
+##  Трассировка между роутерами (SPB и NY) - можно увидеть что используются разные маршруты 
+<img src="./images/traceroute.png" style="display: block;width:500px; height: auto; background: white; margin-bottom: 10px">
