@@ -23,11 +23,11 @@ Date of finished: 15.12.2024
 
 ### Схема работы: 
 
-<img src="./imgs/schema.png" style="width:auto; height: auto; background: white">
+<img src="./imgs/shema.jpg" style="width:auto; height: auto; background: white">
 
 ## Часть 1
 ### PING: R01.NY -> R01.SPB, R01.SVL:
-<img src="./images/PING-NY.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/PING-NY.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ### PING: R01.SPB -> R01.NY, R01.SVL:
 <img src="./imgs/PING-SPB.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
