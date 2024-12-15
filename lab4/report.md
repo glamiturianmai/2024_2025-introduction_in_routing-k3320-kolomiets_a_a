@@ -37,7 +37,7 @@ Date of finished: 15.12.2024
 
 ## Часть 2
 ### PING: PC1 -> PC2, PC3:
-<img src="./images/PC1.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
+<img src="./imgs/PC1.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
 
 ### PING: PC2 -> PC1, PC3:
 <img src="./imgs/PC2.png" style="display: block;width:auto; height: auto; background: white; margin-bottom: 10px">
